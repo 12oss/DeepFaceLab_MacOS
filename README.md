@@ -21,6 +21,8 @@ Make sure you have installed:
 
 Now you can put your `data_src.mp4` and `data_dst.mp4` files into the `workspace/` dir and start running scripts from the `scripts/` dir.
 
+easy way to run scripts on Mac OS = type "sh" in terminal and drag the script file into terminal window
+
 ## Tutorials and docs
 
 See [DeepFaceLab](https://github.com/iperov/DeepFaceLab) project for links to guides and tutorials.
